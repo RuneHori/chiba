@@ -1,0 +1,16 @@
+#START&
+!background_sprite="BG4"
+!bgm_sound="BGM"!bgm_loop="true"
+!bgm_volume="0"
+!bgm_play=""!bgm_fade="5,1"
+
+&!charaimg_sprite="polygon"="charaDisgust"
+&!charaimg_size="polygon"="2000,2000,1"
+&!charaimg_active="polygon"="true"
+&DISGUST「もう誰ともしゃべりたくない」
+&貴方「あらら」
+&DISGUST「全員が気持ち悪い」
+
+&!charaimg_delete="polygon"=""
+!scene="PuzzleScene"
+
