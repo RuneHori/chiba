@@ -6,7 +6,7 @@ public class SceneJumpScript : MonoBehaviour, IPointerEnterHandler, IPointerExit
 {
     private RectTransform buttonRectTransform;
     private Vector2 originalSize;
-    private Vector2 enlargedSize = new Vector2(200f, 100f);
+    private Vector2 enlargedSize = new Vector2(150f, 100f);
     private void Start()
     {
         buttonRectTransform = GetComponent<RectTransform>();
